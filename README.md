@@ -1,16 +1,5 @@
 # currency_converter
 
-A new Flutter project.
+## A new Flutter project.
+Introducing the INR to USD Currency Converter app, powered by Flutter! This sleek and user-friendly application is designed to provide quick and accurate currency conversions between Indian Rupees (INR) and United States Dollars (USD). Whether you're a frequent traveler, a financial enthusiast, or simply someone who needs to stay up-to-date with currency exchange rates, our app is your go-to solution.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
